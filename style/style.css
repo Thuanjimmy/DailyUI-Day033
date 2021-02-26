@@ -1,0 +1,29 @@
+body {
+  background-color: #222831;
+  color: white;
+}
+
+.larger {
+  font-size: 4rem;
+  font-family: ubuntu;
+}
+.navbar {
+  padding: 5% 10% 3%;
+}
+
+.gender {
+  text-align: center;
+}
+.btn {
+  margin: 15px;
+}
+.pic {
+  width: 400px;
+}
+.main {
+  padding: 5% 10% 3%;
+  display: flex;
+}
+.rows {
+  display: flex;
+}
